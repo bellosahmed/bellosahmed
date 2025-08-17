@@ -35,7 +35,6 @@ With a background in **AgriTech, process monitoring, and API development**, I’
 - 🌐 Portfolio: *Coming Soon*  
 - 💼 LinkedIn: [linkedin.com/in/bellosahmed](https://linkedin.com/in/bellosahmed)  
 - 🐦 Twitter (X): [twitter.com/bellosahmed_](https://twitter.com/bellosahmed_)  
-- 📧 Email: **your-email@example.com**  
 
 ---
 
