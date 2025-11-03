@@ -37,10 +37,6 @@ I’ve worked on projects across **AgriTech, process monitoring, and ticketing/h
 **Cloud & DevOps**  
 - AWS, Azure, Docker, GitHub Actions  
 
-**Other Skills**  
-- RESTful APIs, JWT/OAuth2 Authentication  
-- CI/CD, Microservices, Agile Development  
-
 ---
 
 ## 🌱 Currently Learning  
