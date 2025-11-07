@@ -28,7 +28,7 @@ I’ve worked on projects across **AgriTech, process monitoring, and ticketing/h
 - MySQL  
 
 **Frontend Tools**  
-- React (currently learning)  
+- React   
 - HTML5, CSS3  
 
 **AI / ML Tools**  
