@@ -55,7 +55,7 @@ I’ve worked on projects across **AgriTech, process monitoring, and ticketing/h
 ## 🌐 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bello-ahmed-37a419221/)  
 - 🐦 [Twitter (X)](https://x.com/bellosahmed)  
-- 🌍 Portfolio: *Coming Soon*  
+- 🌍 Portfolio:(https://portfoliobello.onrender.com/)  
 
 ---
 
