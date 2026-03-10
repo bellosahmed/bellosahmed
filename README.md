@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Backend Developer | AI/ML Enthusiast**  
 
-Hey there! I’m Bello — a **Backend Developer** who loves building clean, efficient, and scalable systems.  
+Hey there! I’m Bello, a **Backend Developer** who loves building clean, efficient, and scalable systems.  
 I’ve worked on projects and I’m currently expanding my skills into **Artificial Intelligence and Machine Learning** to create smarter, more impactful solutions.  
 
 ---
